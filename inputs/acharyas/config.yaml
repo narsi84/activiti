@@ -1,0 +1,192 @@
+id: acharyas
+title: 
+  src: Acharyas
+  lang: en-in
+items:
+  -
+    id: nammazhwar
+    layout: [A1, C3]
+    learn:
+      -
+        src: nammazhwar.mp3
+        type: audio
+      -
+        src: நம்மாழ்வார்
+        lang: ta
+      -
+        src: நம்மாழ்வார் திருவாய்மொழி அருளிச்செய்தார் 
+        lang: ta
+      - 
+        src: நம்மாழ்வாருக்கு மாறன், சடகோபன் என்ற மற்ற பெயர்களும் உண்டு 
+        lang: ta
+      -
+        src: நம்மாழ்வார், திருக்குருகூரில் அவதரித்தார் 
+        lang: ta
+
+    play:
+      -
+        src: nammazhwar.mp3
+        type: audio
+      -
+        src: இவர்களில் யார் நம்மாழ்வார் 
+        lang: ta
+      -
+        src: திருவாய்மொழி அருளிச்செய்தவர் யார்?
+        lang: ta
+      -
+        src: யார் திருக்குருகூரில் அவதரித்தார்?
+
+  -
+    id: ramanuja
+    layout: [A7, C8]
+    learn:      
+      -
+        src: பகவத் ராமானுஜர்
+        lang: ta
+      - 
+        src: ராமானுஜருக்கு எதிராஜர், பாஷ்யகாரர் என்ற பெயர்களும் உண்டு 
+        lang: ta
+      -
+        src: ராமானுஜர், ஸ்ரீபெரும்பூதூரில் அவதரித்தார்் 
+        lang: ta
+      -
+        src: ராமானுஜர், ஆதி சேஷனின் அவதாரம் 
+        lang: ta
+      -
+        src: ramanuja.mp3
+        type: audio
+    play:
+      -
+        src: ramanuja.mp3
+        type: audio
+      -
+        src: இவர்களில் யார் ராமானுஜர்
+        lang: ta
+      -
+        src: இவர்களில் யார் எதிராஜர்
+        lang: ta
+      -
+        src: யார் ஸ்ரீபெரும்பூதூரில் அவதரித்தார்?
+        lang: ta
+      -
+        src: யார் ஆதி சேஷனின் அவதாரம்?
+        lang: ta
+
+  -
+    id: desika
+    layout: [C4, E5]
+    learn:
+      -
+        src: ஸ்வாமி  தேசிகன்
+        lang: ta
+      -
+        src: ஸ்வாமி  தேசிகன், தூப்புலில் அவதரித்தார்
+        lang: ta
+      -
+        src: ஸ்வாமி  தேசிகனுக்கு, வேதாந்தாசார்யர், வேங்கட நாதன் என்ற பெயர்களும் உண்டு 
+        lang: ta
+      -
+        src: desika.mp3
+        type: audio
+      -
+        src: ஸ்வாமி  தேசிகன், ஹயக்ரீவ ஸ்தோத்ரம் அருளிச்செய்தார் 
+        lang: ta
+    play:
+      -
+        src: desika.mp3
+        type: audio
+      -
+        src: யார் தூப்புலில் அவதரித்தார்?
+        lang: ta
+      -
+        src: இவர்களில் யார் ஸ்வாமி  தேசிகன்
+        lang: ta
+      -
+        src: இவர்களில் யார் வேதாந்தாசார்யர்?
+
+  -
+    id: hh1
+    layout: [E2, F2]
+    learn:
+      -
+        src: hh1.mp3
+        type: audio
+      -
+        src: ஆதிவண் சடகோப ஸ்வாமி
+        lang: ta
+      -
+        src: ஆதிவண் சடகோப ஸ்வாமி, திருநாராயணபுரத்தில் அவதரித்தார் 
+        lang: ta
+      -
+        src: He was the first jeer of ahobila mutt
+        lang: en-in
+    play:
+      -
+        src: hh1.mp3
+        type: audio
+      -
+        src: இவர்களில் யார் ஆதிவண் சடகோப ஸ்வாமி
+        lang: ta
+      -
+        src: யார் திருநாராயணபுரத்தில் அவதரித்தார்?
+        lang: ta
+      -
+        src: Who was the first jeer of ahobila mutt?
+        lang: en-in
+
+  -
+    id: hh45
+    layout: [E7, F8]
+    learn:
+      - 
+        src: hh45.mp3
+        type: audio
+      -
+        src: ஸ்ரீமதே ஸ்ரீ லக்ஷ்மி ந்ருஸிம்ஹ திவ்ய பாதுகா சேவக, ஸ்ரீ வண் சடகோப, ஸ்ரீ நாராயண யதீந்திர மஹாதேசிகன் 
+        lang: ta
+      -
+        src: He was the 45th jeer of ahobila mutt
+        lang: en-in
+      -
+        src: இவருக்கு வில்லிவலம் அழகியசிங்கர் என்ற பெயரும் உண்டு
+        lang: ta
+      -
+        src: இவர் வில்லிவலத்தில் அவதரித்தார் 
+        lang: ta
+    play:
+      -
+        src: இவர்களில் யார் வில்லிவலம் அழகியசிங்கர்
+        lang: ta
+      -
+        src: Who was the 45th jeer of ahobila mutt?
+        lang: en-in
+      -
+        src: யார் வில்லிவலத்தில் அவதரித்தார்?
+        lang: ta
+
+  -
+    id: hh46
+    layout: [G4, H5]
+    learn:
+      -
+        src: hh46.mp3
+        type: audio
+      -
+        src: ஸ்ரீ வண் சடகோப, ஸ்ரீரங்கநாத யதீந்திர மஹாதேசிகன் 
+        lang: ta
+      -
+        src: He was the 46th jeer of ahobila mutt
+        lang: en-in
+      - 
+        src: இவர் திருவாரூரில் அவதரித்தார் 
+        lang: ta
+    play:
+      -
+        src: hh46.mp3
+        type: audio
+      -
+        src: Who was the 46th jeer of ahobila mutt?
+        lang: en-in
+      -
+        src: யார் திருவாரூரில் அவதரித்தார்?
+        lang: ta

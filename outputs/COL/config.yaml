@@ -1,0 +1,173 @@
+code: COL
+id: colors
+items:
+- id: giraffe
+  learn:
+  - 1_learn_1.wav
+  - 1_learn_2.wav
+  - 1_learn_3.wav
+  - 1_learn_4.wav
+  play:
+  - 1_play_1.wav
+  - 1_play_2.wav
+  - 1_play_3.wav
+  - 1_play_4.wav
+- id: bear
+  learn:
+  - 2_learn_1.wav
+  - 2_learn_2.wav
+  - 2_learn_3.wav
+  - 2_learn_4.wav
+  play:
+  - 2_play_1.wav
+  - 2_play_2.wav
+  - 2_play_3.wav
+  - 2_play_4.wav
+  - 2_play_5.wav
+- id: parrot
+  learn:
+  - 3_learn_1.wav
+  - 3_learn_2.wav
+  - 3_learn_3.wav
+  - 3_learn_4.wav
+  - 3_learn_5.wav
+  - 3_learn_6.wav
+  play:
+  - 3_play_1.wav
+  - 3_play_2.wav
+  - 3_play_3.wav
+  - 3_play_4.wav
+  - 3_play_5.wav
+  - 3_play_6.wav
+- id: crow
+  learn:
+  - 4_learn_1.wav
+  - 4_learn_2.wav
+  - 4_learn_3.wav
+  - 4_learn_4.wav
+  - 4_learn_5.wav
+  play:
+  - 4_play_1.wav
+  - 4_play_2.wav
+  - 4_play_3.wav
+  - 4_play_4.wav
+  - 4_play_5.wav
+  - 4_play_6.wav
+- id: peacock
+  learn:
+  - 5_learn_1.wav
+  - 5_learn_2.wav
+  - 5_learn_3.wav
+  - 5_learn_4.wav
+  - 5_learn_5.wav
+  play:
+  - 5_play_1.wav
+  - 5_play_2.wav
+  - 5_play_3.wav
+  - 5_play_4.wav
+  - 5_play_5.wav
+- id: elephant
+  learn:
+  - 6_learn_1.wav
+  - 6_learn_2.wav
+  - 6_learn_3.wav
+  - 6_learn_4.wav
+  - 6_learn_5.wav
+  play:
+  - 6_play_1.wav
+  - 6_play_2.wav
+  - 6_play_3.wav
+  - 6_play_4.wav
+  - 6_play_5.wav
+  - 6_play_6.wav
+- id: butterfly
+  learn:
+  - 7_learn_1.wav
+  - 7_learn_2.wav
+  - 7_learn_3.wav
+  - 7_learn_4.wav
+  - 7_learn_5.wav
+  play:
+  - 7_play_1.wav
+  - 7_play_2.wav
+  - 7_play_3.wav
+  - 7_play_4.wav
+  - 7_play_5.wav
+- id: flamingo
+  learn:
+  - 8_learn_1.wav
+  - 8_learn_2.wav
+  - 8_learn_3.wav
+  - 8_learn_4.wav
+  - 8_learn_5.wav
+  play:
+  - 8_play_1.wav
+  - 8_play_2.wav
+  - 8_play_3.wav
+  - 8_play_4.wav
+layout:
+  A1: 1
+  A2: 2
+  A3: 2
+  A4: 3
+  A5: 3
+  A6: 3
+  A7: 4
+  A8: 4
+  B1: 1
+  B2: 2
+  B3: 2
+  B4: 3
+  B5: 3
+  B6: 3
+  B7: 4
+  B8: 4
+  C1: 5
+  C2: 5
+  C3: 5
+  C4: 0
+  C5: 6
+  C6: 6
+  C7: 6
+  C8: 6
+  D1: 5
+  D2: 5
+  D3: 5
+  D4: 0
+  D5: 6
+  D6: 6
+  D7: 6
+  D8: 6
+  E1: 5
+  E2: 5
+  E3: 5
+  E4: 0
+  E5: 6
+  E6: 6
+  E7: 6
+  E8: 6
+  F1: 0
+  F2: 7
+  F3: 7
+  F4: 7
+  F5: 8
+  F6: 8
+  F7: 8
+  F8: 8
+  G1: 0
+  G2: 7
+  G3: 7
+  G4: 7
+  G5: 8
+  G6: 8
+  G7: 8
+  G8: 8
+  H1: 0
+  H2: 7
+  H3: 7
+  H4: 7
+  H5: 8
+  H6: 8
+  H7: 8
+  H8: 8
+title: title.wav

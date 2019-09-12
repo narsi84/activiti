@@ -1,0 +1,273 @@
+id: solr
+title: 
+  src: Solar System
+items:
+  -
+    id: sun
+    layout: [D4, E4]
+    learn:
+      -
+        src: The sun is the closest start to earth
+      -
+        src: The sun is a big hot ball of fire
+      -
+        src: Sun provides light and heat
+      -
+        src: All planets revolve around the sun
+      -
+        src: Light from the sun takes about 8 minutes to reach earth
+      -
+        src: The sun god was Hanuman's teacher
+        lang: en-in
+      -
+        src: Surya
+        lang: en-in
+      -
+        src: Sunday is named after the sun
+    play:
+      -
+        src: Which is the hottest object of all?
+      -
+        src: Which is earth's closest star?
+      -
+        src: What gives heat and light?
+      -
+        src: Who was Hanuman's teacher?
+        lang: en-in
+      -
+        src: Where is Surya?
+        lang: en-in
+      -
+        src: Sunday is named after which object?
+  -
+    id: mercury
+    layout: [E5, E5]
+    learn:
+      -
+        src: Mercury is the smallest planet
+      -
+        src: बुधा 
+        lang: hi
+      -
+        src: Mercury has the shortest year
+      -
+        src: Mercury is gray in color
+      -
+        src: Wednesday is named after mercury
+    play:
+      -
+        src: Which is the smallest planet?
+      -
+        src: Which planet is gray in color?
+      -
+        src: बुधा 
+        lang: hi
+      -
+        src: Which planet has the shortest year?
+      -
+        src: Wednesday is named after which planet?
+  -
+    id: venus
+    layout: [D3, D3]
+    learn:
+      -
+        src: Venus is the brightest planet visible from earth
+      -
+        src: Venus is also called as the morning star
+      -
+        src: शुक्रा 
+        lang: hi
+      -
+        src: Venus is the closest planet to earth
+      -
+        src: Venus is light yellow in color
+      -
+        src: Venus is the hottest planet in the solar System
+      -
+        src: Friday is named after Venus
+      -
+        src: Veus is the only planet that rotates clockwise
+    play:
+      -
+        src: Which planet is called as morning star?
+      -
+        src: Which is the brightest planet visible from earth?
+      -
+        src: शुक्रा 
+        lang: hi
+      -
+        src: Which is earth's closest planet?
+      -
+        src: Which is the hottest planet?
+      -
+        src: Friday is named after which planet?
+      -
+        src: Which planet rotates clockwise?
+
+  -
+    id: earth
+    layout: [E6, E6]
+    learn:
+      -
+        src: Earth is the only planet where plants and animals live
+      -
+        src: Earth is blue in color
+      -
+        src: Earth has 1 moon
+      -
+        src: पृथ्वी
+        lang: hi
+    play:
+      -
+        src: On what planet do we live?
+      -
+        src: पृथ्वी
+        lang: hi
+      -
+        src: Find the blue planet
+
+  -
+    id: mars
+    layout: [C5, C5]
+    learn:
+      -
+        src: Mars is also called the red planet
+      -
+        src: Mars has the largest volcano called Olympus Mons
+      -
+        src: Mars has two moons
+      -
+        src: मंगला 
+        lang: hi
+      -
+        src: Tuesday is named after Mars
+    play:
+      -
+        src: Find the red planet
+      -
+        src: Find the planet that has the volcano Olympus Mons
+      -
+        src: मंगला 
+        lang: hi
+      -
+        src: Tuesday is named after which planet?
+
+  -
+    id: asteroids
+    layout: [C2, E2]
+    learn:
+      -
+        src: asteroids are small pieces of rock
+      -
+        src: Asteroids are mostly found between Mars and jupiter
+    play:
+      -
+        src: Find the asteroids
+
+  -
+    id: jupiter
+    layout: [F3, F3]
+    learn:
+      -
+        src: Jupiter is the largest planet
+      -
+        src: गुरु 
+        lang: hi
+      -
+        src: Jupiter has 79 moons
+      -
+        src: Jupiter has the shortest day
+      -
+        src: Jupiter is mostly orange in color
+      -
+        src: Jupiter has the largest moon called Ganymede
+      -
+        src: Thursday is named after Jupiter
+    play:
+      -
+        src: Which is the largest planet?
+      -
+        src: गुरु 
+        lang: hi
+      -
+        src: Which planet has the shortest day?
+      -
+        src: Which planet has most number of moons?
+      -
+        src: Thursday is named after which planet?
+
+  -
+    id: saturn
+    layout: [F6, F8]
+    learn:
+      -
+        src: शनि 
+        lang: hi
+      -
+        src: Saturn is light yellow in color
+      -
+        src: Saturn is the lightest planet
+      -
+        src: Saturn has rings made of ice
+      -
+        src: Saturday is named after Saturn
+      -
+        src: Saturn has 53 moons
+    play:
+      -
+        src: शनि 
+        lang: hi
+      -
+        src: Which planet has rings made of ice?
+      -
+        src: Which is the lightest planet?
+      -
+        src: Saturday is named after which planet?
+
+  -
+    id: uranus
+    layout: [B2, B2]
+    learn:
+      -
+        src: Uranus is blue in color
+      -
+        src: Uranus rotates sideways
+      -
+        src: Uranus has 27 moons
+    play:
+      -
+        src: Which planet rotates sideways?
+
+  -
+    id: neptune
+    layout: [B6, B6]
+    learn:
+      -
+        src: Neptune is blue in color
+      -
+        src: Neptune is the farthest planet from sun
+      -
+        src: Neptune has 13 moons
+      -
+        src: Neptune is the only planet that is not visible to the naked eye
+    play:
+      -
+        src: Which is the farthest planet in the solar System?
+      -
+        src: Which is the only planet that is not visible to the naked eye?
+
+  -
+    id: comet
+    layout: [C7, C8]
+    learn:
+      -
+        src: Comets are snowballs of frozen gases, rock and dust that orbit the Sun
+      -
+        src: As comets gets closer to the Sun, dust and ice starts to melt and appear as the comet's tail
+      -
+        src: Comets have very long oval orbits
+    play:
+      -
+        src: Which object has a long tail as it comes closer to the sun?
+      -
+        src: Which object has long oval orbit?

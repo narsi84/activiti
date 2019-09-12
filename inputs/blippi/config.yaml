@@ -1,0 +1,84 @@
+id: blippi
+title:
+  type: tts
+  src: Blippi game
+
+items:
+-
+  id: train
+  layout: [A1, B3]
+  learn:
+    - 
+      type: audio
+      src: train.mp3
+  play:
+    -
+      type: tts
+      src: Which vehicle moves on the land?
+-
+  id: heli
+  layout: [D1, E3]
+  learn:
+    - 
+      type: audio
+      src: helicopter.mp3
+  play:
+    -
+      type: tts
+      src: Which vehicle flies in air?
+    -
+      type: tts
+      src: Which vehicle is used in fire fighting?
+- 
+  id: trex
+  layout: [D6, E8]
+  learn:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: T-rex is one of the largest dinosaurs.
+  play:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: Which is the largest dinosaur?
+
+- 
+  id: raptor
+  layout: [F4, H5]
+  learn:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: Raptor is the fastest dinosaur.
+  play:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: Which is the fastest dinosaur?
+
+- 
+  id: triceratops
+  layout: [A5, B7]
+  learn:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: Triceratops has 3 horns.
+  play:
+    -
+      type: audio
+      src: dino.mp3
+    -
+      type: tts
+      src: Which dinosaur has 3 horns?

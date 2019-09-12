@@ -1,0 +1,256 @@
+id: dasavarar
+title:
+  type: tts
+  src: தசாவதாரம் 
+  lang: ta
+
+items:
+  -
+    id: matsya
+    layout: [A1, B2]
+    learn:
+      -
+        src: மத்ஸ்யாவதாரம் 
+        lang: ta
+      -
+        src: In this avatar lord Narayana took the form of a fish
+        lang: en-in
+    play:
+      -
+        src: மத்ஸ்யாவதாரம் 
+        lang: ta
+      -
+        src: In which avatar did lord Narayana take the form of a fish?
+        lang: en-in
+
+  -
+    id: kurma
+    layout: [D1, D2]
+    learn:
+      -
+        src: In this avatar lord Narayana took the form of a turtle
+        lang: en-in
+      -
+        src: கூர்மாவதாரம் 
+        lang: ta
+      -
+        src: kurma.wav
+        type: audio
+    play:
+      -
+        src: In which avatar did lord Narayana take the form of a turtle?
+        lang: en-in
+      -
+        src: கூர்மாவதாரம் 
+        lang: ta
+      -
+        src: kurma.wav
+        type: audio
+  
+  -
+    id: varaha
+    layout: [F1, G2]
+    learn:
+      -
+        src: In varaha avatar lord vishnu took the form of a wild boar
+        lang: en-in
+      -
+        src: வராஹாவதாரம் 
+        lang: ta
+      -
+        src: In varaha avatar, Lord vishnu saved earth from the demon hiranyaksha
+        lang: en-in
+    play:
+      -
+        src: In which avatar did lord vishnu take the form of a wild boar?
+        lang: en-in
+      -
+        src: வராஹாவதாரம் 
+        lang: ta
+
+  -
+    id: narasimha
+    layout: [F4, G4]
+    learn:
+      -
+        src: நரஸிம்ஹாவதாரம் 
+        lang: ta
+      -
+        src: This avatar has a face of a lion and body of a man
+      -
+        src: In narasimha avatar, Lord vishnu saved earth from the demon hiranya
+        lang: en-in
+      -
+        src: vishnu took this avatar to save prahalada
+        lang: en-in
+    play:
+      -
+        src: நரஸிம்ஹாவதாரம் 
+        lang: ta
+      -
+        src: In which avatar did lord vishnu have the face of a lion?
+        lang: en-in
+      -
+        src: Which avatar was taken to save prahalada?
+        lang: en-in
+
+  -
+    id: vamana
+    layout: [D3, E4]
+    learn:
+      -
+        src: வாமனாவதாரம் 
+        lang: ta
+      -
+        src: In vamana avatar, Lord vishnu saved earth from the demon mahabali
+        lang: en-in
+      -
+        src: Vamana was very short, but grew very tall and placed his feet on all three worlds
+        lang: en-in
+      -
+        src: Vamana's parents were adhithi and rishi kashyapa
+        lang: en-in
+    play:
+      -
+        src: வாமனாவதாரம் 
+        lang: ta
+      -
+        src: In which avatar did lord vishnu appear as a short boy?
+        lang: en-in
+      -
+        src: Who was the son of adhithi and rishi kashyapa?
+        lang: en-in
+
+  -
+    id: parasurama
+    layout: [B3, C4]
+    learn:
+      -
+        src: பரசுராமாவதாரம்
+        lang: ta
+      -
+        src: parasurama was the son of renuka and rishi jamadagni
+        lang: en-in
+      -
+        src: parasurama is also called bhargava rama
+        lang: en-in
+      -
+        src: parasurama's weapon was the axe
+        lang: en-in
+    play:
+      -
+        src: பரசுராமாவதாரம்
+        lang: ta
+      -
+        src: Who was the son of renuka and jamadagni?
+        lang: en-in
+      -
+        src: Who is bhargava rama?
+        lang: en-in
+
+  -
+    id: rama
+    layout: [A6, B6]
+    learn:
+      -
+        src: ராமாவதாரம் 
+        lang: ta
+      -
+        src: Rama's weapon was a bow called kodhanda
+        lang: en-in
+      -
+        src: rama was the son of queen kousalya and king dasharatha
+        lang: en-in
+
+    play:
+      -
+        src: ராமாவதாரம் 
+        lang: ta
+      -
+        src: Who was the son of queen kousalya and king dasharatha?
+        lang: en-in
+      -
+        src: Who killed ravana?
+        lang: en-in
+
+  -
+    id: balarama
+    layout: [B7, C8]
+    learn:
+      -
+        src: பலராமர் 
+        lang: ta
+      -
+        src: Balarama was the elder brother of krishna
+        lang: en-in
+      -
+        src: Balarama's weapon was the plough
+        lang: en-in
+      -
+        src: Balarama was the son of rohini & vasudeva
+        lang: en-in
+    play:
+      -
+        src: பலராமர் 
+        lang: ta
+      -
+        src: Who was the elder brother of krishna
+        lang: en-in
+      -
+        src: Who was the son of rohini & vasudeva
+        lang: en-in
+
+  -
+    id: krishna
+    layout: [D8, E8]
+    learn:
+      -
+        src: krishna
+        lang: en-in
+      -
+        src: Krishna was born to devaki & vasudeva
+        lang: en-in
+      -
+        src: krishna weapon was the chakra
+        lang: en-in
+      -
+        src: krishna's childhood best friend was sudhama
+        lang: en-in
+    play:
+      -
+        src: krishna
+        lang: en-in
+      -
+        src: who was the son of devaki & vasudeva
+        lang: en-in
+      -
+        src: who was the best friend of sudhama?
+        lang: en-in
+
+  -
+    id: kalki
+    layout: [F6, G7]
+    learn:
+      -
+        src: kalki
+        lang: en-in
+      -
+        src: kalki is the only avatar that has not happened yet
+        lang: en-in
+      -
+        src: kalki's weapon is the sword
+        lang: en-in
+      -
+        src: kalki's parents will be sumati and vishnuyashas
+        lang: en-in
+    play:
+      -
+        src: kalki
+        lang: en-in
+      -
+        src: which is the only avatar that has not happened yet?
+        lang: en-in
+      -
+        src: who will be the son of sumati and vishnuyashas?
+        lang: en-in
+

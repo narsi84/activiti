@@ -1,0 +1,221 @@
+id: solr
+title: 
+  src: Ramayana
+items:
+  -
+    id: dasharatha
+    layout: [A2, B2]
+    learn:
+      -
+        src: Dasharatha was the king of Ayodhya
+        lang: en-in
+      -
+        src: Dasharatha was the father of Rama, Lakshmana, Bharatha and Shatrughna
+        lang: en-in
+      -
+        src: Dasharatha's wifes were Kousalya, Sumithra and Keikeyi
+        lang: en-in
+      -
+        src: Dasharatha means one who can drive his chariot in all 10 directions
+    play:
+      -
+        src: Who was the father of Rama and Lakshmana?
+        lang: en-in
+      -
+        src: Who was the king of Ayodhya?
+        lang: en-in
+      -
+        src: Who is the husband of Kousalya?
+        lang: en-in
+      -
+        src: Who is dasharatha?
+        lang: en-in
+
+  -
+    id: vishwamitra
+    layout: [A7, B7]
+    learn: 
+      -
+        src: vishwamitra was the guru of Rama and Lakshmana
+        lang: en-in
+      -
+        src: vishwamitra got rama and sita married
+        lang: en-in
+      -
+        src: vishwamitra is also known as Koushika
+        lang: en-in
+    play:
+      -
+        src: Who was the guru of rama?
+        lang: en-in
+      -
+        src: Who got rama and sita married?
+        lang: en-in
+      -
+        src: Who is vishwamitra?
+        lang: en-in
+      -
+        src: Who is Koushika?
+        lang: en-in
+
+  -
+    id: rama
+    layout: [E3, G3]
+    learn: 
+      -
+        src: Rama is the 7th avatar of Vishnu
+        lang: en-in
+      -
+        src: Rama always spoke the truth and kept his promises
+        lang: en-in
+      -
+        src: Rama was born in Ayodhya to King Dasharatha and Queen Kousalya
+        lang: en-in
+      -
+        src: Rama's bow is called Kodhanda
+        lang: en-in
+      -
+        src: Rama built a bridge across the ocean to reach Sri Lanka
+        lang: en-in
+      -
+        src: Lord Ranganatha was worshipped by Rama before he came to Sri rangam
+        lang: en-in      
+    play:
+      -
+        src: Who was the son of Kousalya?
+        lang: en-in
+      -
+        src: Who is the 7th avatar of Vishnu?
+        lang: en-in
+      -
+        src: Who built a bridge across the ocean?
+        lang: en-in
+      -
+        src: Whose bow is called Kodhanda?
+        lang: en-in
+
+  -
+    id: lakshmana
+    layout: [E2, F2]
+    learn:
+      -
+        src: Lakshmana was the son of King Dasharatha and Queen Sumithra
+        lang: en-in
+      -
+        src: Lakshmana was very devoted to Rama and always followed him
+        lang: en-in
+      -
+        src: லக்ஷ்மணன், ஆதி சேஷனின் அவதாரம் 
+        lang: ta
+      -
+        src: Lakshmana was known for his anger
+        lang: en-in
+      -
+        src: Lakshmana killed indrajit 
+        lang: en-in
+    play:
+      -
+        src: யார் ஆதி சேஷனின் அவதாரம்?
+        lang: ta
+      -
+        src: Who was the son of Sumithra?
+        lang: en-in
+      -
+        src: Who killed indrajit?
+        lang: en-in
+
+  -
+    id: sita
+    layout: [E4, H4]
+    learn:
+      -
+        src: Sita was born in Mithila to King Janaka and Queen Sunaina
+        lang: en-in
+      -
+        src: Sita is the avatar of goddess lakshmi
+        lang: en-in
+      -
+        src: Sita was kidnapped by ravana and imprisoned in Lanka
+        lang: en-in
+    play:
+      -
+        src: Who was the daughter of Kind Janaka and Queen Sunaina?
+        lang: en-in
+      -
+        src: Who is the avatar of goddess lakshmi?
+        lang: en-in
+      -
+        src: Who was imprisoned in Lanka?
+        lang: en-in
+
+  -
+    id: hanuman
+    layout: [G2, H2]
+    learn:
+      -
+        src: Hanuman was born in kishkinda to king Kesari and Queen anjana
+        lang: en-in
+      -
+        src: Hanuman is the avatar of wind god
+        lang: en-in
+      -
+        src: Hanuman flew over the ocean to search for sita
+        lang: en-in
+      -
+        src: Hanuman saved rama and Lakshmana during the war by bringing the sanjeevani medicine from himalayas
+        lang: en-in
+      -
+        src: Hanuman's teacher was the sun god
+        lang: en-in
+      -
+        src: Hanuman was also known as maruti
+    play:
+      -
+        src: Who was the son of Kesari and anjana?
+        lang: en-in
+      -
+        src: Who is the avatar of wind god?
+      -
+        src: Who brought the sanjeevani medicine?
+        lang: en-in
+      - 
+        src: Who is maruti?
+        lang: en-in
+
+  -
+    id: ravana
+    layout: [E6, G8]
+    learn:
+      -
+        src: Ravana was the king of Lanka
+        lang: en-in
+      -
+        src: Ravana had 10 heads
+        lang: en-in
+      -
+        src: Ravana kidnapped sita from the forest
+        lang: en-in
+      -
+        src: Ravana was killed by rama in the battle
+        lang: en-in
+      -
+        src: Ravana was the son of Rishi Vishrava and demon Kaikesi
+        lang: en-in
+      -
+        src: Ravana was a great player of Veena
+    play:
+      -
+        src: Who was the king of Lanka?
+        lang: en-in
+      -
+        src: Who was the son of demon kaikesi?
+        lang: en-in
+      -
+        src: Who had 10 heads?
+      -
+        src: Who plays veena?
+        lang: en-in
+      -
+        src: Who kidnapped sita?
+        lang: en-in
+

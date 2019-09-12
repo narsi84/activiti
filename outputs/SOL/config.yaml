@@ -1,0 +1,197 @@
+code: SOL
+id: solr
+items:
+- id: sun
+  learn:
+  - 1_learn_1.wav
+  - 1_learn_2.wav
+  - 1_learn_3.wav
+  - 1_learn_4.wav
+  - 1_learn_5.wav
+  - 1_learn_6.wav
+  - 1_learn_7.wav
+  - 1_learn_8.wav
+  play:
+  - 1_play_1.wav
+  - 1_play_2.wav
+  - 1_play_3.wav
+  - 1_play_4.wav
+  - 1_play_5.wav
+  - 1_play_6.wav
+- id: mercury
+  learn:
+  - 2_learn_1.wav
+  - 2_learn_2.wav
+  - 2_learn_3.wav
+  - 2_learn_4.wav
+  - 2_learn_5.wav
+  play:
+  - 2_play_1.wav
+  - 2_play_2.wav
+  - 2_play_3.wav
+  - 2_play_4.wav
+  - 2_play_5.wav
+- id: venus
+  learn:
+  - 3_learn_1.wav
+  - 3_learn_2.wav
+  - 3_learn_3.wav
+  - 3_learn_4.wav
+  - 3_learn_5.wav
+  - 3_learn_6.wav
+  - 3_learn_7.wav
+  - 3_learn_8.wav
+  play:
+  - 3_play_1.wav
+  - 3_play_2.wav
+  - 3_play_3.wav
+  - 3_play_4.wav
+  - 3_play_5.wav
+  - 3_play_6.wav
+  - 3_play_7.wav
+- id: earth
+  learn:
+  - 4_learn_1.wav
+  - 4_learn_2.wav
+  - 4_learn_3.wav
+  - 4_learn_4.wav
+  play:
+  - 4_play_1.wav
+  - 4_play_2.wav
+  - 4_play_3.wav
+- id: mars
+  learn:
+  - 5_learn_1.wav
+  - 5_learn_2.wav
+  - 5_learn_3.wav
+  - 5_learn_4.wav
+  - 5_learn_5.wav
+  play:
+  - 5_play_1.wav
+  - 5_play_2.wav
+  - 5_play_3.wav
+  - 5_play_4.wav
+- id: asteroids
+  learn:
+  - 6_learn_1.wav
+  - 6_learn_2.wav
+  play:
+  - 6_play_1.wav
+- id: jupiter
+  learn:
+  - 7_learn_1.wav
+  - 7_learn_2.wav
+  - 7_learn_3.wav
+  - 7_learn_4.wav
+  - 7_learn_5.wav
+  - 7_learn_6.wav
+  - 7_learn_7.wav
+  play:
+  - 7_play_1.wav
+  - 7_play_2.wav
+  - 7_play_3.wav
+  - 7_play_4.wav
+  - 7_play_5.wav
+- id: saturn
+  learn:
+  - 8_learn_1.wav
+  - 8_learn_2.wav
+  - 8_learn_3.wav
+  - 8_learn_4.wav
+  - 8_learn_5.wav
+  - 8_learn_6.wav
+  play:
+  - 8_play_1.wav
+  - 8_play_2.wav
+  - 8_play_3.wav
+  - 8_play_4.wav
+- id: uranus
+  learn:
+  - 9_learn_1.wav
+  - 9_learn_2.wav
+  - 9_learn_3.wav
+  play:
+  - 9_play_1.wav
+- id: neptune
+  learn:
+  - 10_learn_1.wav
+  - 10_learn_2.wav
+  - 10_learn_3.wav
+  - 10_learn_4.wav
+  play:
+  - 10_play_1.wav
+  - 10_play_2.wav
+- id: comet
+  learn:
+  - 11_learn_1.wav
+  - 11_learn_2.wav
+  - 11_learn_3.wav
+  play:
+  - 11_play_1.wav
+  - 11_play_2.wav
+layout:
+  A1: 0
+  A2: 0
+  A3: 0
+  A4: 0
+  A5: 0
+  A6: 0
+  A7: 0
+  A8: 0
+  B1: 0
+  B2: 9
+  B3: 0
+  B4: 0
+  B5: 10
+  B6: 0
+  B7: 0
+  B8: 0
+  C1: 0
+  C2: 6
+  C3: 0
+  C4: 0
+  C5: 5
+  C6: 0
+  C7: 11
+  C8: 11
+  D1: 0
+  D2: 6
+  D3: 3
+  D4: 1
+  D5: 0
+  D6: 0
+  D7: 0
+  D8: 0
+  E1: 0
+  E2: 6
+  E3: 0
+  E4: 1
+  E5: 2
+  E6: 4
+  E7: 0
+  E8: 0
+  F1: 0
+  F2: 0
+  F3: 7
+  F4: 0
+  F5: 0
+  F6: 8
+  F7: 8
+  F8: 8
+  G1: 0
+  G2: 0
+  G3: 0
+  G4: 0
+  G5: 0
+  G6: 0
+  G7: 0
+  G8: 0
+  H1: 0
+  H2: 0
+  H3: 0
+  H4: 0
+  H5: 0
+  H6: 0
+  H7: 0
+  H8: 0
+title: title.wav

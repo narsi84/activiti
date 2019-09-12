@@ -1,0 +1,226 @@
+code: TAM
+id: tamil_uyir
+items:
+- id: "\u0B85"
+  learn:
+  - 1_learn_1.wav
+  - 1_learn_2.wav
+  - 1_learn_3.wav
+  - 1_learn_4.wav
+  - 1_learn_5.wav
+  play:
+  - 1_play_1.wav
+  - 1_play_2.wav
+  - 1_play_3.wav
+  - 1_play_4.wav
+  - 1_play_5.wav
+- id: "\u0B86"
+  learn:
+  - 2_learn_1.wav
+  - 2_learn_2.wav
+  - 2_learn_3.wav
+  - 2_learn_4.wav
+  - 2_learn_5.wav
+  play:
+  - 2_play_1.wav
+  - 2_play_2.wav
+  - 2_play_3.wav
+  - 2_play_4.wav
+  - 2_play_5.wav
+- id: "\u0B87"
+  learn:
+  - 3_learn_1.wav
+  - 3_learn_2.wav
+  - 3_learn_3.wav
+  - 3_learn_4.wav
+  - 3_learn_5.wav
+  play:
+  - 3_play_1.wav
+  - 3_play_2.wav
+  - 3_play_3.wav
+  - 3_play_4.wav
+  - 3_play_5.wav
+- id: "\u0B88"
+  learn:
+  - 4_learn_1.wav
+  - 4_learn_2.wav
+  - 4_learn_3.wav
+  - 4_learn_4.wav
+  - 4_learn_5.wav
+  play:
+  - 4_play_1.wav
+  - 4_play_2.wav
+  - 4_play_3.wav
+  - 4_play_4.wav
+  - 4_play_5.wav
+- id: "\u0B89"
+  learn:
+  - 5_learn_1.wav
+  - 5_learn_2.wav
+  - 5_learn_3.wav
+  - 5_learn_4.wav
+  - 5_learn_5.wav
+  play:
+  - 5_play_1.wav
+  - 5_play_2.wav
+  - 5_play_3.wav
+  - 5_play_4.wav
+  - 5_play_5.wav
+- id: "\u0B8A"
+  learn:
+  - 6_learn_1.wav
+  - 6_learn_2.wav
+  - 6_learn_3.wav
+  - 6_learn_4.wav
+  - 6_learn_5.wav
+  play:
+  - 6_play_1.wav
+  - 6_play_2.wav
+  - 6_play_3.wav
+  - 6_play_4.wav
+  - 6_play_5.wav
+- id: "\u0B8E"
+  learn:
+  - 7_learn_1.wav
+  - 7_learn_2.wav
+  - 7_learn_3.wav
+  - 7_learn_4.wav
+  - 7_learn_5.wav
+  play:
+  - 7_play_1.wav
+  - 7_play_2.wav
+  - 7_play_3.wav
+  - 7_play_4.wav
+  - 7_play_5.wav
+- id: "\u0B8F"
+  learn:
+  - 8_learn_1.wav
+  - 8_learn_2.wav
+  - 8_learn_3.wav
+  - 8_learn_4.wav
+  - 8_learn_5.wav
+  play:
+  - 8_play_1.wav
+  - 8_play_2.wav
+  - 8_play_3.wav
+  - 8_play_4.wav
+  - 8_play_5.wav
+- id: "\u0B90"
+  learn:
+  - 9_learn_1.wav
+  - 9_learn_2.wav
+  - 9_learn_3.wav
+  - 9_learn_4.wav
+  - 9_learn_5.wav
+  play:
+  - 9_play_1.wav
+  - 9_play_2.wav
+  - 9_play_3.wav
+  - 9_play_4.wav
+  - 9_play_5.wav
+- id: "\u0B92"
+  learn:
+  - 10_learn_1.wav
+  - 10_learn_2.wav
+  - 10_learn_3.wav
+  - 10_learn_4.wav
+  - 10_learn_5.wav
+  play:
+  - 10_play_1.wav
+  - 10_play_2.wav
+  - 10_play_3.wav
+  - 10_play_4.wav
+  - 10_play_5.wav
+- id: "\u0B93"
+  learn:
+  - 11_learn_1.wav
+  - 11_learn_2.wav
+  - 11_learn_3.wav
+  - 11_learn_4.wav
+  - 11_learn_5.wav
+  play:
+  - 11_play_1.wav
+  - 11_play_2.wav
+  - 11_play_3.wav
+  - 11_play_4.wav
+  - 11_play_5.wav
+- id: "\u0B92\u0BB3"
+  learn:
+  - 12_learn_1.wav
+  - 12_learn_2.wav
+  - 12_learn_3.wav
+  - 12_learn_4.wav
+  play:
+  - 12_play_1.wav
+  - 12_play_2.wav
+  - 12_play_3.wav
+  - 12_play_4.wav
+  - 12_play_5.wav
+layout:
+  A1: 1
+  A2: 1
+  A3: 2
+  A4: 2
+  A5: 3
+  A6: 3
+  A7: 4
+  A8: 4
+  B1: 1
+  B2: 1
+  B3: 2
+  B4: 2
+  B5: 3
+  B6: 3
+  B7: 4
+  B8: 4
+  C1: 0
+  C2: 0
+  C3: 0
+  C4: 0
+  C5: 0
+  C6: 0
+  C7: 0
+  C8: 0
+  D1: 5
+  D2: 5
+  D3: 6
+  D4: 6
+  D5: 7
+  D6: 7
+  D7: 8
+  D8: 8
+  E1: 5
+  E2: 5
+  E3: 6
+  E4: 6
+  E5: 7
+  E6: 7
+  E7: 8
+  E8: 8
+  F1: 0
+  F2: 0
+  F3: 0
+  F4: 0
+  F5: 0
+  F6: 0
+  F7: 12
+  F8: 12
+  G1: 9
+  G2: 0
+  G3: 10
+  G4: 10
+  G5: 11
+  G6: 11
+  G7: 12
+  G8: 12
+  H1: 9
+  H2: 0
+  H3: 10
+  H4: 10
+  H5: 11
+  H6: 11
+  H7: 12
+  H8: 12
+title: title.wav
+title_text: "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0B89\u0BAF\u0BBF\u0BB0\u0BCD \u0B8E\u0BB4\
+  \u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BB3\u0BCD"

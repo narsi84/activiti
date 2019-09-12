@@ -1,0 +1,138 @@
+code: ACH
+id: acharyas
+items:
+- id: nammazhwar
+  learn:
+  - 1_learn_1.wav
+  - 1_learn_2.wav
+  - 1_learn_3.wav
+  - 1_learn_4.wav
+  - 1_learn_5.wav
+  play:
+  - 1_play_1.wav
+  - 1_play_2.wav
+  - 1_play_3.wav
+  - 1_play_4.wav
+- id: ramanuja
+  learn:
+  - 2_learn_1.wav
+  - 2_learn_2.wav
+  - 2_learn_3.wav
+  - 2_learn_4.wav
+  - 2_learn_5.wav
+  play:
+  - 2_play_1.wav
+  - 2_play_2.wav
+  - 2_play_3.wav
+  - 2_play_4.wav
+  - 2_play_5.wav
+- id: desika
+  learn:
+  - 3_learn_1.wav
+  - 3_learn_2.wav
+  - 3_learn_3.wav
+  - 3_learn_4.wav
+  - 3_learn_5.wav
+  play:
+  - 3_play_1.wav
+  - 3_play_2.wav
+  - 3_play_3.wav
+  - 3_play_4.wav
+- id: hh1
+  learn:
+  - 4_learn_1.wav
+  - 4_learn_2.wav
+  - 4_learn_3.wav
+  - 4_learn_4.wav
+  play:
+  - 4_play_1.wav
+  - 4_play_2.wav
+  - 4_play_3.wav
+  - 4_play_4.wav
+- id: hh45
+  learn:
+  - 5_learn_1.wav
+  - 5_learn_2.wav
+  - 5_learn_3.wav
+  - 5_learn_4.wav
+  - 5_learn_5.wav
+  play:
+  - 5_play_1.wav
+  - 5_play_2.wav
+  - 5_play_3.wav
+- id: hh46
+  learn:
+  - 6_learn_1.wav
+  - 6_learn_2.wav
+  - 6_learn_3.wav
+  - 6_learn_4.wav
+  play:
+  - 6_play_1.wav
+  - 6_play_2.wav
+  - 6_play_3.wav
+layout:
+  A1: 1
+  A2: 1
+  A3: 1
+  A4: 0
+  A5: 0
+  A6: 0
+  A7: 2
+  A8: 2
+  B1: 1
+  B2: 1
+  B3: 1
+  B4: 0
+  B5: 0
+  B6: 0
+  B7: 2
+  B8: 2
+  C1: 1
+  C2: 1
+  C3: 1
+  C4: 3
+  C5: 3
+  C6: 0
+  C7: 2
+  C8: 2
+  D1: 0
+  D2: 0
+  D3: 0
+  D4: 3
+  D5: 3
+  D6: 0
+  D7: 0
+  D8: 0
+  E1: 0
+  E2: 4
+  E3: 0
+  E4: 3
+  E5: 3
+  E6: 0
+  E7: 5
+  E8: 5
+  F1: 0
+  F2: 4
+  F3: 0
+  F4: 0
+  F5: 0
+  F6: 0
+  F7: 5
+  F8: 5
+  G1: 0
+  G2: 0
+  G3: 0
+  G4: 6
+  G5: 6
+  G6: 0
+  G7: 0
+  G8: 0
+  H1: 0
+  H2: 0
+  H3: 0
+  H4: 6
+  H5: 6
+  H6: 0
+  H7: 0
+  H8: 0
+title: title.wav

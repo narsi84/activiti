@@ -1,0 +1,413 @@
+id: tamil_uyir
+title:   
+  src: தமிழ் உயிர் எழுத்துக்கள்
+  lang: ta
+items:
+  -
+    id: அ
+    layout: [A1, B2]
+    learn:
+      -
+        src: அ
+        lang: ta
+      -
+        src: அணில்
+        lang: ta
+      -
+        src: நீலம்
+        lang: ta
+      -
+        src: அணில் மரத்தில் வாழும் விலங்கு
+        lang: ta
+      - 
+        src: squirrel
+    play:
+      -
+        src: எது மரத்தில் வாழும் விலங்கு
+        lang: ta
+      -
+        src: அ
+        lang: ta
+      -
+        src: அணில்
+        lang: ta
+      -
+        src: நீலம்
+        lang: ta
+      - 
+        src: squirrel
+
+  -
+    id: ஆ
+    layout: [A3, B4]
+    learn:
+      -
+        src: ஆடு
+        lang: ta
+      -
+        src: சிவப்பு
+        lang: ta
+      -
+        src: ஆ
+        lang: ta
+      - 
+        src: ஆடு புல் சாப்பிடும்
+        lang: ta
+      -
+        src: sheep
+    play:
+      -
+        src: ஆடு
+        lang: ta
+      -
+        src: சிவப்பு
+        lang: ta
+      -
+        src: ஆ
+        lang: ta
+      - 
+        src: எது புல் சாப்பிடும்
+        lang: ta      
+      - 
+        src: sheep
+
+  -
+    id: இ
+    layout: [A5, B6]
+    learn:
+      -
+        src: இலை
+        lang: ta
+      -
+        src: பழுப்பு  
+        lang: ta
+      -
+        src: இ
+        lang: ta
+      - 
+        src: இலை மரத்தின் ஒரு பகுதி
+        lang: ta
+      -
+        src: leaf
+    play:
+      -
+        src: இலை
+        lang: ta
+      -
+        src: பழுப்பு  
+        lang: ta
+      -
+        src: இ
+        lang: ta
+      - 
+        src: எது மரத்தின் ஒரு பகுதி
+        lang: ta
+      -
+        src: leaf
+
+  -
+    id: ஈ
+    layout: [A7, B8]
+    learn:
+      -
+        src: ஈ
+        lang: ta
+      -
+        src: ஆரஞ்சு  
+        lang: ta
+      -
+        src: ஈ ஒரு வகையான பூச்சி
+        lang: ta
+      - 
+        src: ஈசல்
+        lang: ta
+      -
+        src: fly
+
+    play:
+      -
+        src: ஈ
+        lang: ta
+      -
+        src: ஆரஞ்சு  
+        lang: ta
+      -
+        src: எது ஒரு வகையான பூச்சி
+        lang: ta
+      - 
+        src: ஈசல்
+        lang: ta
+      -
+        src: fly
+
+  -
+    id: உ
+    layout: [D1, E2]
+    learn:
+      -
+        src: உ
+        lang: ta
+      -
+        src: உளி  
+        lang: ta
+      -
+        src: உளி, கல் உடைக்கப் பயன்படும் 
+        lang: ta
+      - 
+        src: இளஞ்சிவப்பு 
+        lang: ta
+      -
+        src: chisel
+    play:
+      -
+        src: உ
+        lang: ta
+      -
+        src: உளி  
+        lang: ta
+      -
+        src: எது கல் உடைக்கப் பயன்படும் 
+        lang: ta
+      - 
+        src: இளஞ்சிவப்பு 
+        lang: ta
+      -
+        src: chisel
+
+  -
+    id: ஊ
+    layout: [D3, E4]
+    learn:
+      -
+        src: ஊ
+        lang: ta
+      -
+        src: இளம் பழுப்பு 
+        lang: ta
+      -
+        src: ஊஞ்சல் 
+        lang: ta
+      - 
+        src: ஊஞ்சல் விளையாடுவதற்குப் பயன்படும்
+        lang: ta
+      -
+        src: swing
+    play:
+      -
+        src: ஊ
+        lang: ta
+      -
+        src: இளம் பழுப்பு 
+        lang: ta
+      -
+        src: ஊஞ்சல் 
+        lang: ta
+      - 
+        src: எது விளையாடுவதற்குப் பயன்படும்
+        lang: ta
+      -
+        src: swing
+
+  -
+    id: எ
+    layout: [D5, E6]
+    learn: 
+      -
+        src: எ
+        lang: ta
+      -
+        src: எலி
+        lang: ta
+      -
+        src: பச்சை 
+        lang: ta
+      - 
+        src: எலிக்கு பகை பூனை
+        lang: ta
+      -
+        src: mouse        
+    play: 
+      -
+        src: எ
+        lang: ta
+      -
+        src: எலி
+        lang: ta
+      -
+        src: பச்சை 
+        lang: ta
+      - 
+        src: எதற்குப் பகை பூனை
+        lang: ta
+      -
+        src: mouse        
+
+  -
+    id: ஏ
+    layout: [D7, E8]
+    learn: 
+      -
+        src: ஏ
+        lang: ta
+      -
+        src: ஏணி
+        lang: ta
+      -
+        src: ஊதா
+        lang: ta
+      - 
+        src: ஏணி உயரத்தில் இருப்பதை எடுக்கப் பயன்படும்
+        lang: ta
+      -
+        src: ladder
+    play: 
+      -
+        src: ஏ
+        lang: ta
+      -
+        src: ஏணி
+        lang: ta
+      -
+        src: ஊதா
+        lang: ta
+      - 
+        src: எது உயரத்தில் இருப்பதை எடுக்கப் பயன்படும்
+        lang: ta
+      -
+        src: ladder
+
+  -
+    id: ஐ
+    layout: [G1, H1]
+    learn: 
+      -
+        src: ஐ
+        lang: ta
+      -
+        src: ஐந்து
+        lang: ta
+      -
+        src: பச்சை
+        lang: ta
+      - 
+        src: பாண்டவர்கள் ஐந்து பேர்
+        lang: ta
+      -
+        src: five
+    play: 
+      -
+        src: ஐ
+        lang: ta
+      -
+        src: ஐந்து
+        lang: ta
+      -
+        src: பச்சை
+        lang: ta
+      - 
+        src: பாண்டவர்கள் எத்தனை பேர்
+        lang: ta
+      -
+        src: five
+
+  -
+    id: ஒ
+    layout: [G3, H4]
+    learn: 
+      -
+        src: ஒ
+        lang: ta
+      -
+        src: ஒட்டகம்
+        lang: ta
+      -
+        src: மஞ்சள்
+        lang: ta
+      - 
+        src: ஒட்டகம் பாலைவனத்தில் வாழும் விலங்கு
+        lang: ta
+      -
+        src: camel
+    play: 
+      -
+        src: ஒ
+        lang: ta
+      -
+        src: ஒட்டகம்
+        lang: ta
+      -
+        src: மஞ்சள்
+        lang: ta
+      - 
+        src: பாலைவனத்தில் வாழும் விலங்கு எது 
+        lang: ta
+      -
+        src: camel
+
+  -
+    id: ஓ
+    layout: [G5, H6]
+    learn: 
+      -
+        src: ஓ
+        lang: ta
+      -
+        src: கருப்பு
+        lang: ta
+      -
+        src: ஓடம்
+        lang: ta
+      - 
+        src: ஓடம் தண்ணீரில் ஓடும்
+        lang: ta
+      -
+        src: boat
+    play: 
+      -
+        src: ஓ
+        lang: ta
+      -
+        src: கருப்பு
+        lang: ta
+      -
+        src: ஓடம்
+        lang: ta
+      - 
+        src: எது தண்ணீரில் ஓடும்
+        lang: ta
+      -
+        src: boat
+
+  -
+    id: ஒள
+    layout: [F7, H8]
+    learn: 
+      -
+        src: ஒள
+        lang: ta
+      -
+        src: கரு நீலம்
+        lang: ta
+      -
+        src: ஔவையார் 
+        lang: ta
+      - 
+        src: ஔவையார் ஆத்திச்சூடி எழுதினர்
+        lang: ta
+    play: 
+      -
+        src: ஒள
+        lang: ta
+      -
+        src: கரு நீலம்
+        lang: ta
+      -
+        src: ஔவையார் 
+        lang: ta
+      - 
+        src: யார் ஆத்திச்சூடி எழுதினர்
+        lang: ta
+      -
+        src: அறம் செய்ய விரும்பு
+        lang: ta
+

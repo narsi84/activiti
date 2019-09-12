@@ -1,0 +1,62 @@
+id: continents
+title:
+  type: tts
+  src: continents and oceans
+
+items:
+  -
+    id: asia
+    layout: [B6, D8]
+    learn:
+      -
+        src: asia
+      -
+        src: India is in asia
+      -
+        src: Asia is the largest continent
+      -
+        src: There are 49 countries in Asia
+      -
+        src: Asia has the highest population
+    play:
+      -
+        src: Where is asia?
+      -
+        src: Which continent does India belong to?
+      -
+        src: Which is the largest continent?
+      -
+        src: Which is the most populous continent?
+
+  -
+    id: africa
+    layout: [D4, E5]
+    learn:
+      -
+        src: africa
+      -
+        src: Africa is the second biggest continent
+      -
+        src: The first humans lived in Africa
+      -
+        src: There are 54 countries in Africa
+    play:
+      -
+        src: Where is africa?
+      -
+        src: Where did the first humans live?
+      -
+        src: Which is the second largest continent
+
+  -
+    id: europe
+    layout: [C4, C5]
+    learn:
+      -
+        src: europe
+      -
+        src: There are 50 countries in europe
+      -
+        src: 
+
+

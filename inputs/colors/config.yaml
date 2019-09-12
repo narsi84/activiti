@@ -1,0 +1,249 @@
+id: colors
+title:
+  src: Colors and shapes game
+
+items:
+
+-
+  id: giraffe
+  layout: [A1, B1]
+  learn:
+    - 
+      src: One orange giraffe
+    - 
+      src: Giraffe is the tallest animal
+    - 
+      lang: ta
+      src: ஒரு ஆரஞ்சு நிற ஒட்டகச்சிவிங்கி
+    -
+      lang: es
+      src: naranja
+  play:
+    -
+      src: Which is the tallest animal?
+    -
+      lang: ta
+      src: ஆரஞ்சு நிற விலங்கு எது?
+    - 
+      lang: ta
+      src: எது ஒட்டகச்சிவிங்கி?
+    -
+      lang: es
+      src: naranja
+
+-
+  id: bear
+  layout: [A2, B3]
+  learn:
+    -
+      src: Two brown bears
+    -
+      lang: ta
+      src: இரண்டு பழுப்பு கரடிகள்
+    -
+      src: Bears sleep all day during winter
+    -
+      lang: es
+      src: marrón
+  play:
+    -
+      src: Which animal sleeps all day during winter?
+    -
+      lang: ta
+      src: பழுப்பு நிற விலங்கு எது?
+    -
+      src: Find the bear
+    - 
+      lang: es
+      src: marrón
+    -
+      lang: ta
+      src: பழுப்பு
+
+-
+  id: parrot
+  layout: [A4, B6]
+  learn:
+    -
+      src: Three green parrots inside a triangle
+    -
+      lang: ta
+      src: மூன்று பச்சைக் கிளிகள்
+    -
+      src: Parrots can be trained to speak like humans
+    -
+      lang: ta
+      src: பச்சை முக்கோணம்
+    - 
+      src: Triangle has three sides
+    -
+      lang: es
+      src: verde
+  play:
+    -
+      src: Find the parrot
+    -
+      src: ஆண்டாளின் கையில் இருக்கும் பறவை எது?
+      lang: ta
+    -
+      src: Which bird can speak like humans?
+    - 
+      src: Find the shape that has three sides
+    -
+      lang: es
+      src: verde
+    -
+      lang: ta
+      src: பச்சை
+
+-
+  id: crow
+  layout: [A7, B8]
+  learn:
+    -
+      src: Four black crows inside a square
+    -
+      src: நான்கு கருப்பு காகங்கள்
+      lang: ta
+    -
+      src: கருப்பு சதுரம்
+      lang: ta
+    -
+      src: A square has four sides
+    - 
+      lang: es
+      src: negro
+  play:
+    - 
+      src: Where is the crow?
+    -
+      src: Find the shape that has four sides
+    -
+      src: பாட்டியிடம் வடை திருடிய பறவை எது?
+      lang: ta
+    -
+      src: ஸ்ரீ ராமனிடத்தில் சரணடைந்த பறவை எது?
+      lang: ta
+    - 
+      lang: es
+      src: negro
+    -
+      lang: ta
+      src: கருப்பு
+
+-
+  id: peacock
+  layout: [C1, E3]
+  learn:
+    -
+      src: Five blue peacocks around a pentagon
+    -
+      src: ஐந்து நீல மயில்கள்
+      lang: ta
+    -
+      lang: es
+      src: azul
+    - 
+      src: A pentagon has five sides
+    -
+      src: Lord krishna wears a peacock feather in his cap
+  play:
+    -
+      src: Find the peacock
+    -
+      src: Find the shape that has five sides
+    -
+      src: Which birds feather is on lord Krishna's cap
+    -
+      lang: es
+      src: azul
+    -
+      lang: ta
+      src: நீலம்
+
+-
+  id: elephant
+  layout: [C5, E8]
+  learn:
+    -
+      src: Six gray elephants around a hexagon
+    -
+      src: ஆறு சாம்பல் நிற யானைகள்
+      lang: ta
+    -
+      src: Elephant's nose is called trunk
+    -
+      src: A hexagon has six sides
+    -
+      src: Elephant's tooth is called tusk
+  play:
+    -
+      src: Find the shape that has six sides
+    -
+      src: Which animal has tusks?
+    -
+      src: Which animal has a trunk?
+    -
+      lang: en-in
+      src: Which animal was saved by Lord Narayana when it was bit by a crocodile?
+    - 
+      src: Find the gray animal
+    -
+      src: சாம்பல்
+      lang: ta
+
+-
+  id: butterfly
+  layout: [F2, H4]
+  learn:
+    -
+      src: seven yellow butterflies around a septagon
+    -
+      src: ஏழு மஞ்சள் பட்டாம்பூச்சிகள்
+      lang: ta
+    -
+      src: Butterflies drink honey from flowers
+    -
+      src: A septagon has seven sides
+    -
+      src: The young one of a butterfly is called caterpillar
+  play:
+    -
+      src: Which shape has seven sides?
+    -
+      src: Which insect drinks honey from flowers?
+    -
+      src: Find the yellow insect
+    -
+      src: Which insect's young one is callerd a caterpillar
+    -
+      src: மஞ்சள்
+      lang: ta
+
+- 
+  id: flamingo
+  layout: [F5, H8]
+  learn:
+    -
+      src: Eight pink flamingos around an octagon
+    -
+      src: எட்டு இளஞ்சிவப்பு ஃபிளமிங்கோக்கள்
+      lang: ta
+    -
+      src: rosa
+      lang: es
+    -
+      src: An octagon has eight sides
+    -
+      src: Flamingos usually stand on one leg
+  play:
+    -
+      src: Which shape has eight sides?
+    -
+      src: rosa
+      lang: es
+    -
+      src: இளஞ்சிவப்பு
+      lang: ta
+    -
+      src: Which bird usually stands on one leg
