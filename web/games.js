@@ -1,7 +1,6 @@
 var GAMES = [
 	{
 		code: 'ACH',
-		icon: '',
 		title: 'Acharyas'
 	},
 	{
@@ -11,5 +10,17 @@ var GAMES = [
 	{
 		code: 'RAM',
 		title: 'Ramayana'
+	},
+	{
+		code: 'DAS',
+		title: 'Dashavatar'
+	},
+	{
+		code: 'SOL',
+		title: 'Solar System'
+	},
+	{
+		code: 'TAM',
+		title: 'Tamil uyir ezhuththukkal'
 	}
 ]
