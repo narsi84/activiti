@@ -114,7 +114,7 @@ def handle_settings():
 
   global CURRENT_GAME
 
-  play_sound('assets/settings.wav')
+  play_sound('../assets/settings.wav')
 
   game_code = ''
   while True:
@@ -126,7 +126,7 @@ def handle_settings():
     
     if key_val == 'ENTER':
       print('Loading game ' + game_code)
-      config_file = os.path.join(GAME_DIR, game_code, 'config.yaml')
+      config_file = os.path.join(GAME_DIR, 'outputs', game_code, 'config.yaml')
       if os.path.exists(config_file):
         CURRENT_GAME = yaml.load(open(config_file))
         all_plays = dict()
@@ -138,23 +138,23 @@ def handle_settings():
         MODE = 'learn'
         LEARN_HISTORY.clear()
         PLAY_HISTORY.clear()
-        play_sound('assets/learn.wav')
+        play_sound('../assets/learn.wav')
       else:
-        play_sound('assets/game_not_found.wav')
+        play_sound('../assets/game_not_found.wav')
         game_code = ''
       return
 
     elif key_val == 'CANCEL':
       game_code = ''
-      play_sound('assets/cancel.wav')
+      play_sound('../assets/cancel.wav')
       return
    
     else:
-      play_sound('assets/%s.wav' % key_val)
+      play_sound('../assets/%s.wav' % key_val)
       game_code += key_val
 
 def get_file_path(fname):
-  return os.path.join(GAME_DIR, CURRENT_GAME['code'], fname)
+  return os.path.join(GAME_DIR, 'outputs', CURRENT_GAME['code'], fname)
   
 def handle_mode():
   global CURRENT_GAME, MODE
@@ -163,7 +163,7 @@ def handle_mode():
     return
 
   MODE = 'play' if MODE == 'learn' else 'learn'
-  play_sound('assets/' + MODE + '.wav')
+  play_sound('../assets/' + MODE + '.wav')
 
 def learn():
   key = wait_for_key()
@@ -214,14 +214,14 @@ def play():
 
   key_val = CURRENT_GAME['layout'].get(key, None)
   if not key_val:
-    play_sound('assets/failure.wav')
+    play_sound('../assets/failure.wav')
     return
 
   selection = CURRENT_GAME['items'][key_val-1]
   if selection == item:
-    play_sound('assets/success.wav')
+    play_sound('../assets/success.wav')
   else:
-    play_sound('assets/failure.wav')
+    play_sound('../assets/failure.wav')
 
 if __name__ == '__main__':
 
