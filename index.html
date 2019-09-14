@@ -139,11 +139,11 @@
 			}
 
 			function getPath(item){
-				return '../outputs/' + GAME_DATA.code + '/' + item;
+				return 'outputs/' + GAME_DATA.code + '/' + item;
 			}
 
 			function selectGame(game){
-				$.get('../outputs/' + game.code + '/config.yaml', function(data){
+				$.get('outputs/' + game.code + '/config.yaml', function(data){
 					GAME_DATA = jsyaml.load(data);
 					$('.grid').css('background-image', 'url(' + getPath('game.jpg') + ')')
 					
