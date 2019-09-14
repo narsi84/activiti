@@ -56,10 +56,10 @@
 			console.log('Mode: ' + MODE);
 			if (MODE == 'LEARN'){
 				console.log('Select item');
-				play_sound('../assets/learn.wav', true);
+				play_sound('assets/learn.wav', true);
 			}
 			else {
-				play_sound('../assets/play.wav', true);
+				play_sound('assets/play.wav', true);
 				play();
 			}
 			}
@@ -93,11 +93,11 @@
 			}
 
 			function success(){
-				play_sound('../assets/success.wav');
+				play_sound('assets/success.wav');
 			}
 
 			function failure(){
-				play_sound('../assets/failure.wav');
+				play_sound('assets/failure.wav');
 			}
 
 			function play(){
