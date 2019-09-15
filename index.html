@@ -11,9 +11,15 @@
 		<script type="text/javascript" src="web/games.js"></script>
 		<!-- <script type="text/javascript" src="./activiti.js"> </script> -->
 		<script type="text/javascript">
+
 			var GAMES, GAME_DATA, MODE='LEARN';
 			var CURRENT_ITEM = null, LEARN_HISTORY={}, PLAY_HISTORY = new Set();
 			var CURRENT_AUDIO = null;
+
+			function resize() {
+				var mindim = Math.min($(window).width(), $(window).height());
+				$('td').css('width', mindim/9);				
+			}
 
 			function renderGrid() {
 				var table = '';
@@ -53,15 +59,15 @@
 			}
 
 			function modeChanged(){
-			console.log('Mode: ' + MODE);
-			if (MODE == 'LEARN'){
-				console.log('Select item');
-				play_sound('assets/learn.wav', true);
-			}
-			else {
-				play_sound('assets/play.wav', true);
-				play();
-			}
+				console.log('Mode: ' + MODE);
+				if (MODE == 'LEARN'){
+					console.log('Select item');
+					play_sound('assets/learn.wav', true);
+				}
+				else {
+					play_sound('assets/play.wav', true);
+					play();
+				}
 			}
 
 			function sleep(ms) {
@@ -188,19 +194,19 @@
 	
 		<style type="text/css">
 			body {
-				height: 90%;
-				width: 90%;
 				margin: auto;
 			}
 			.grid {
 				background-repeat: no-repeat;
 				border-collapse: collapse;
+				margin: auto;
 				border-spacing: 0px;
-				width: 100%;
+				/*width: 100%;*/
 				background-size: cover;
 			}
 			.grid td {
-				width: 2em;
+				width: 8em;
+				/*height: 10em;*/
 				border: 1px solid #80808025;
 			}
 			.title {
@@ -215,7 +221,7 @@
 			  margin-top: 100%;
 			}
 			.container {
-				width: 95%;
+				width: 100%;
 				margin: auto;
 			}
 			.controls {
@@ -231,7 +237,7 @@
 		</style>
 		
 	</head>
-	<body onload="renderGrid()">
+	<body onload="renderGrid()" onresize="resize()">
 		<div id='log'></div>
 		<div>
 			<div class="row" style="width: 80%; margin: auto; padding: .5em">       

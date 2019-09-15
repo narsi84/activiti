@@ -22,5 +22,9 @@ var GAMES = [
 	{
 		code: 'TAM',
 		title: 'Tamil uyir ezhuththukkal'
+	},
+	{
+		code: 'COL',
+		title: 'Colors & shapes'
 	}
 ]
