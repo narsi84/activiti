@@ -26,5 +26,13 @@ var GAMES = [
 	{
 		code: 'COL',
 		title: 'Colors & shapes'
+	},
+	{
+		code: 'BTAM',
+		title: 'Bhargav Tamil'
+	},
+	{
+		code: 'CON',
+		title: 'Continents & Oceans'
 	}
 ]

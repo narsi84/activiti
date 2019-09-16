@@ -22,11 +22,9 @@ items:
       -
         src: Where is asia?
       -
-        src: Which continent does India belong to?
+        src: Where in India?
       -
         src: Which is the largest continent?
-      -
-        src: Which is the most populous continent?
 
   -
     id: africa
@@ -35,14 +33,16 @@ items:
       -
         src: africa
       -
-        src: Africa is the second biggest continent
-      -
-        src: The first humans lived in Africa
-      -
         src: There are 54 countries in Africa
+      -
+        src: Egypt and Kenya are in Africa
     play:
       -
         src: Where is africa?
+      -
+        src: Where is Egypt?
+      -
+        src: Where is Kenya?
       -
         src: Where did the first humans live?
       -
@@ -57,6 +57,133 @@ items:
       -
         src: There are 50 countries in europe
       -
-        src: 
+        src: Germany, France and England are in europe
+    play:
+      -
+        src: Where is europe?
+      -
+        src: Where is Germany?
+      -
+        src: Where is France?
 
+  -
+    id: australia
+    layout: [E8, F8]
+    learn:
+      - 
+        src: australia
+    play:
+      -
+        src: where is australia?
 
+  - 
+    id: antartica
+    layout: [G2, G7]
+    learn: 
+      -
+        src: antartica
+      -
+        src: Antartica is full of ice
+      -
+        src: antartica is the southern most continent
+    play:
+      -
+        src: where is antartica?
+      -
+        src: which continent is full of ice?
+      -
+        src: which is the southern most continent?
+
+  -
+    id: north america
+    layout: [B1, D2]
+    learn:
+      -
+        src: north america
+      -
+        src: USA, Canada and mexico are in north america
+    play:
+      -
+        src: where is north america?
+      -
+        src: Where is USA?
+      -
+        src: where is Canada?
+      -
+        src: Where is mexico?
+
+  - 
+    id: south america
+    layout: [E2, E3]
+    learn:
+      -
+        src: south america
+      -
+        src: Brazil and Argentina are in south america
+    play:
+      -
+        src: Where is south america?
+      -
+        src: Where is Brazil?
+      -
+        src: Where is Argentina?
+
+  -
+    id: pacific ocean
+    layout: [E1, G1]
+    learn:
+      -
+        src: pacific ocean
+      -
+        src: pacific ocean is the largest ocean
+      -
+        src: pacific ocean is closest to california
+    play:      
+      -
+        src: where is pacific ocean?
+      -
+        src: Which is the largest ocean?
+      -
+        src: which ocean is closest to california
+
+  -
+    id: atlantic
+    layout: [C3, D3]
+    learn: 
+      -
+        src: atlantic ocean
+      -
+        src: atlantic ocean is between america and europe
+    play:
+      -
+        src: Where is atlantic ocean
+      -
+        src: Which ocean is between america and europe?
+
+  - 
+    id: indian
+    layout: [E5, E6]
+    learn:
+      -
+        src: Indian ocean
+      -
+        src: Indian ocean is closest to India
+    play:
+      -
+        src: Where is Indian ocean?
+      -
+        src: Which ocean is closest to India?
+
+  -
+    id: antartic
+    layout: [F3, F7]
+    learn:
+      -
+        src: Antarctic ocean
+      -
+        src: Antarctic ocean is the southern most ocean
+    play:
+      -
+        src: Where is Antarctic ocean?
+      -
+        src: Which is the southern most ocean?    

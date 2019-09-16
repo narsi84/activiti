@@ -1,0 +1,362 @@
+id: tamil_uyir
+title:   
+  src: தமிழ் உயிர் எழுத்துக்கள்
+  lang: ta
+items:
+  -
+    id: அ
+    layout: [A1, B2]
+    learn:
+      -
+        src: அ
+        lang: ta
+      -
+        src: அணில்
+        lang: ta
+      -
+        src: aram.wav
+        type: audio    
+      - 
+        src: squirrel
+    play:
+      -
+        src: எது மரத்தில் வாழும் விலங்கு
+        lang: ta
+      -
+        src: அ
+        lang: ta
+      -
+        src: அணில்
+        lang: ta
+      -
+        src: aram.wav
+        type: audio    
+
+  -
+    id: ஆ
+    layout: [A3, B4]
+    learn:
+      -
+        src: ஆமை 
+        lang: ta
+      -
+        src: aruvathu.wav
+        type: audio    
+      -
+        src: ஆ
+        lang: ta
+      -
+        src: Turtle
+    play:
+      -
+        src: aruvathu.wav
+        type: audio    
+      -
+        src: ஆமை 
+        lang: ta
+      -
+        src: ஆ
+        lang: ta
+      - 
+        src: Turtle
+
+  -
+    id: இ
+    layout: [A5, B6]
+    learn:
+      -
+        src: இலை
+        lang: ta
+      -
+        src: இ
+        lang: ta
+      -
+        src: iyalvathu.wav
+        type: audio    
+      -
+        src: leaf
+    play:
+      -
+        src: இலை
+        lang: ta
+      -
+        src: iyalvathu.wav
+        type: audio    
+      -
+        src: இ
+        lang: ta
+      -
+        src: leaf
+
+  -
+    id: ஈ
+    layout: [A7, B8]
+    learn:
+      -
+        src: ஈ
+        lang: ta
+      -
+        src: evathu.wav
+        type: audio    
+      - 
+        src: ஈசல்
+        lang: ta
+      -
+        src: fly
+
+    play:
+      -
+        src: ஈ
+        lang: ta
+      -
+        src: evathu.wav
+        type: audio    
+      - 
+        src: ஈசல்
+        lang: ta
+      -
+        src: fly
+
+  -
+    id: உ
+    layout: [D1, E2]
+    learn:
+      -
+        src: உ
+        lang: ta
+      -
+        src: உரல்
+        lang: ta
+      -
+        src: udayathu.wav
+        type: audio    
+    play:
+      -
+        src: உ
+        lang: ta
+      -
+        src: உரல்  
+        lang: ta
+      -
+        src: udayathu.wav
+        type: audio    
+
+  -
+    id: ஊ
+    layout: [D3, E4]
+    learn:
+      -
+        src: ஊ
+        lang: ta
+      -
+        src: ookkamathu.wav
+        type: audio    
+      -
+        src: ஊஞ்சல் 
+        lang: ta
+      -
+        src: swing
+    play:
+      -
+        src: ஊ
+        lang: ta
+      -
+        src: ookkamathu.wav
+        type: audio    
+      -
+        src: ஊஞ்சல் 
+        lang: ta
+      -
+        src: swing
+
+  -
+    id: எ
+    layout: [D5, E6]
+    learn: 
+      -
+        src: எ
+        lang: ta
+      -
+        src: எலி
+        lang: ta
+      -
+        src: enezhuthu.wav
+        type: audio    
+      - 
+        src: எலிக்கு பகை பூனை
+        lang: ta
+      -
+        src: mouse        
+    play: 
+      -
+        src: எ
+        lang: ta
+      -
+        src: எலி
+        lang: ta
+      -
+        src: enezhuthu.wav
+        type: audio    
+      - 
+        src: எதற்குப் பகை பூனை
+        lang: ta
+      -
+        src: mouse        
+
+  -
+    id: ஏ
+    layout: [D7, E8]
+    learn: 
+      -
+        src: ஏ
+        lang: ta
+      -
+        src: ஏணி
+        lang: ta
+      -
+        src: erpathu.wav
+        type: audio    
+      -
+        src: ladder
+    play: 
+      -
+        src: ஏ
+        lang: ta
+      -
+        src: ஏணி
+        lang: ta
+      -
+        src: erpathu.wav
+        type: audio    
+      -
+        src: ladder
+
+  -
+    id: ஐ
+    layout: [G1, H2]
+    learn: 
+      -
+        src: ஐ
+        lang: ta
+      -
+        src: ஐந்து
+        lang: ta
+      -
+        src: iyamittu.wav
+        type: audio    
+      - 
+        src: பாண்டவர்கள் ஐந்து பேர்
+        lang: ta
+      -
+        src: five
+    play: 
+      -
+        src: ஐ
+        lang: ta
+      -
+        src: ஐந்து
+        lang: ta
+      -
+        src: iyamittu.wav
+        type: audio    
+      - 
+        src: பாண்டவர்கள் எத்தனை பேர்
+        lang: ta
+      -
+        src: five
+
+  -
+    id: ஒ
+    layout: [G3, H4]
+    learn: 
+      -
+        src: ஒ
+        lang: ta
+      -
+        src: ஒட்டகம்
+        lang: ta
+      -
+        src: oppuravu.wav
+        type: audio    
+      - 
+        src: ஒட்டகம் பாலைவனத்தில் வாழும் விலங்கு
+        lang: ta
+      -
+        src: camel
+    play: 
+      -
+        src: ஒ
+        lang: ta
+      -
+        src: ஒட்டகம்
+        lang: ta
+      -
+        src: oppuravu.wav
+        type: audio    
+      - 
+        src: பாலைவனத்தில் வாழும் விலங்கு எது 
+        lang: ta
+      -
+        src: camel
+
+  -
+    id: ஓ
+    layout: [G5, H6]
+    learn: 
+      -
+        src: ஓ
+        lang: ta
+      -
+        src: othuvathu.wav
+        type: audio    
+      -
+        src: ஓடம்
+        lang: ta
+      - 
+        src: ஓடம் தண்ணீரில் ஓடும்
+        lang: ta
+      -
+        src: boat
+    play: 
+      -
+        src: ஓ
+        lang: ta
+      -
+        src: othuvathu.wav
+        type: audio    
+      -
+        src: ஓடம்
+        lang: ta
+      - 
+        src: எது தண்ணீரில் ஓடும்
+        lang: ta
+      -
+        src: boat
+
+  -
+    id: ஒள
+    layout: [G7, H8]
+    learn: 
+      -
+        src: ஒள
+        lang: ta
+      -
+        src: avviyam.wav
+        type: audio    
+      -
+        src: ஒளடதம் 
+        lang: ta
+      -
+        src: medicine
+    play: 
+      -
+        src: ஒள
+        lang: ta
+      -
+        src: avviyam.wav
+        type: audio    
+      -
+        src: ஒளடதம் 
+        lang: ta
+      -
+        src: medicine
